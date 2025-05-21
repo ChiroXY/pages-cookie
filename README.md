@@ -1,6 +1,6 @@
-# 🍪 **Receita de Cookies Simples & Elegante**  
+# 🍪 **Receita de Cupcake de café com chantilly**  
 
-Uma receita de cookies leve, o Cupcake de Café com Chantilly é uma landing page elegante e responsiva, perfeita para cafeterias, confeitarias ou qualquer negócio que queira um toque especial.  
+Uma receita de Cupcake de café com chantilly leve, o Cupcake de Café com Chantilly é uma landing page elegante e responsiva, perfeita para cafeterias, confeitarias ou qualquer negócio que queira um toque especial.  
 
 ---
 
